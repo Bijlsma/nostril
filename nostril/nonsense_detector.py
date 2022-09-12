@@ -942,7 +942,7 @@ def tabulate_scores(string_list, ngram_freq, show=50, portion='all',
 # Module exports.
 # .............................................................................
 
-nonsense = generate_nonsense_detector()
+nonsense = generate_nonsense_detector
 
 
 # -----------------------------------------------------------------------------
